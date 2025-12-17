@@ -46,5 +46,22 @@ The model was able to classify images of cats and dogs with reasonable accuracy,
 
 ---
 
+## 🔥 Extra Showcase (Optional)
+
+In addition to the Colab notebook implementation, this project is also developed as a **Flask-based web application** using VS Code.
+
+The web application allows users to:
+- Upload an image of a **cat or dog**
+- Display the uploaded image on the screen
+- Predict whether the image is a **Cat 🐱 or Dog 🐶** using a trained CNN model
+- Interact with a simple and clean user interface
+
+This extra implementation demonstrates how a deep learning image classification model can be deployed as a real-world web application.
+
+
+🔗 **Web App Source Code**:  
+👉 https://github.com/Santhosh-KumarB/PRODIGY_ML_03_APP
+
+
 ## 🔗 Internship
 **Prodigy InfoTech – Machine Learning Internship**
