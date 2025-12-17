@@ -65,3 +65,8 @@ This extra implementation demonstrates how a deep learning image classification 
 
 ## 🔗 Internship
 **Prodigy InfoTech – Machine Learning Internship**
+---
+
+## 🙌 Author
+
+**Santhosh Kumar B**  
